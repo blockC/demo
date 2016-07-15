@@ -1,0 +1,217 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/BurntSushi/toml",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/golang/protobuf/proto",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/core/chaincode/shim",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/core/chaincode/shim/crypto",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/core/chaincode/shim/crypto/attr",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/core/chaincode/shim/crypto/ecdsa",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/core/comm",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/core/crypto/attributes",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/core/crypto/attributes/proto",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/core/crypto/primitives",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/core/crypto/utils",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/core/util",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"path": "github.com/hyperledger/fabric/protos",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/kr/pretty",
+			"path": "github.com/kr/pretty",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/kr/text",
+			"path": "github.com/kr/text",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/looplab/fsm",
+			"path": "github.com/looplab/fsm",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/magiconair/properties",
+			"path": "github.com/magiconair/properties",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/mitchellh/mapstructure",
+			"path": "github.com/mitchellh/mapstructure",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/op/go-logging",
+			"path": "github.com/op/go-logging",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/spf13/cast",
+			"path": "github.com/spf13/cast",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/spf13/jwalterweatherman",
+			"path": "github.com/spf13/jwalterweatherman",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/spf13/pflag",
+			"path": "github.com/spf13/pflag",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/github.com/spf13/viper",
+			"path": "github.com/spf13/viper",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/golang.org/x/crypto/sha3",
+			"path": "golang.org/x/crypto/sha3",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/golang.org/x/net/context",
+			"path": "golang.org/x/net/context",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/golang.org/x/net/http2",
+			"path": "golang.org/x/net/http2",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/golang.org/x/net/http2/hpack",
+			"path": "golang.org/x/net/http2/hpack",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/golang.org/x/net/internal/timeseries",
+			"path": "golang.org/x/net/internal/timeseries",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/golang.org/x/net/trace",
+			"path": "golang.org/x/net/trace",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/google.golang.org/grpc",
+			"path": "google.golang.org/grpc",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/google.golang.org/grpc/codes",
+			"path": "google.golang.org/grpc/codes",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/google.golang.org/grpc/credentials",
+			"path": "google.golang.org/grpc/credentials",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/google.golang.org/grpc/grpclog",
+			"path": "google.golang.org/grpc/grpclog",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/google.golang.org/grpc/metadata",
+			"path": "google.golang.org/grpc/metadata",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/google.golang.org/grpc/transport",
+			"path": "google.golang.org/grpc/transport",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/google/protobuf",
+			"path": "google/protobuf",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		},
+		{
+			"origin": "github.com/hyperledger/fabric/vendor/gopkg.in/yaml.v2",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "0c9bdc987b152e856993b7834dee2f0cb75b23ff",
+			"revisionTime": "2016-07-15T09:31:18+02:00"
+		}
+	]
+}
